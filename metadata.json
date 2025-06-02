@@ -1,0 +1,5 @@
+{
+  "name": "Agenda Aggregator",
+  "description": "A web application to aggregate and manage multiple personal and shared agendas in a unified calendar view.",
+  "requestFramePermissions": []
+}

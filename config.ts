@@ -2,7 +2,7 @@
 // You need to register your application with Google Cloud Console and Azure Active Directory
 // and configure the redirect URI there to match the one you specify here.
 
-export const GOOGLE_CLIENT_ID = 'YOUR_GOOGLE_CLIENT_ID_HERE'; // Replace with your Google Client ID
+export const GOOGLE_CLIENT_ID = '992716485443-lfgor8ampb459645ub4rr2vdnp1cr6ri.apps.googleusercontent.com'; // Replace with your Google Client ID
 export const MICROSOFT_CLIENT_ID = 'YOUR_MICROSOFT_CLIENT_ID_HERE'; // Replace with your Microsoft Client ID
 
 // This URI must be registered as an Authorized Redirect URI in both your Google and Microsoft app configurations.

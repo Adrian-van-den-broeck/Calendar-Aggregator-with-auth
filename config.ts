@@ -9,7 +9,7 @@ export const MICROSOFT_CLIENT_ID = 'YOUR_MICROSOFT_CLIENT_ID_HERE'; // Replace w
 // For local development, this might be your dev server's address (e.g., 'http://localhost:8080/')
 // or a specific callback page (e.g., 'http://localhost:8080/auth-callback.html').
 // Ensure it matches *exactly* what you configured on the provider's side.
-export const REDIRECT_URI = 'https://api.netlify.com/auth/callback'; // Replace with your actual redirect URI
+export const REDIRECT_URI = 'https://rainbow-dango-0ceb3f.netlify.app/.netlify/auth/callback'; // Replace with your actual redirect URI
 
 
 // Scopes define the permissions your application requests.
